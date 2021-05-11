@@ -9,11 +9,17 @@ At each trial, a letter is presented at the center of the screen. Participant mu
 There are 6 blocks in total : 
 
 Block 1: no noise
+
 Block 2: the noise is the same than the target letter
+
 Block 3: the noise is the other letter in the same group as the target letter
+
 Block 4: the noise is one of the two letters (randomly chosen) of the other group than the target letter
+
 Block 5: the noise is the three (randomly sorted) other letters of the same category
+
 Block 6: the noise is the three (randomly sorted) other letters of the other category
+
 
 In each block, the target letter is at the center of the screen, and noise letters around the target letter.
 
